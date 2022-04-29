@@ -9,5 +9,5 @@ A mini application for getting 7 days weather conditions with different location
 
 2. Find the weather conditions for any location:
 
-![weather1](https://user-images.githubusercontent.com/93419962/153701867-21b456f4-dc35-41bd-9360-f66f804c44ea.PNG)
+![weather1](![searchloacktion](https://user-images.githubusercontent.com/93373957/165869061-11ce8298-136a-41dc-b9a0-99dbf6c7ecaf.png)
 
